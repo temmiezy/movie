@@ -89,6 +89,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.idea/
+google-keys/
 
 # Spyder project settings
 .spyderproject
